@@ -45,7 +45,15 @@ Para testes, você deve levantar o serviço web do **gvmsdk**, dentro da pasta d
 $ gvmsdk serve
 ```
 
-Ele irá levantar um servidor web no endereço http://localhost:3000 e sugerimos usar o [Google Chrome](https://www.google.com/chrome/) com as opções de desenvolvedor (F12), pois esta opção fornece meios de debug e emular dispositivos móveis.
+Ele irá levantar um servidor web no endereço http://localhost:3000 acessando nossa API de testes. Sugerimos usar o [Google Chrome](https://www.google.com/chrome/) com as opções de desenvolvedor (F12), pois esta opção fornece meios de debug e emular dispositivos móveis.
+
+Para acessar, use um dos usuários e senhas abaixo:
+
+|Usuário|Senha|
+|---|---|
+|aluno|123|
+|responsavel|123|
+|professor|123|
 
 ## Anatomia de uma feature
 
