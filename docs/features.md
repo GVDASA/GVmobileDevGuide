@@ -53,9 +53,9 @@ Uma feature terá a seguinte estrutura de arquivos:
 
 * [feature.json](#featurejson)
 * [helloWorld.module.js](#helloworldmodulejs)
-* [helloWorld.controller.js e helloWorld.service.js](#helloworldservicejsehelloworldservicejs)
-* [helloWorld.html e helloWorld2.html](#helloworldhtmlehelloworld2html)
-* [helloWorld.sass](#helloworldsass)
+* [helloWorld.controller.js e helloWorld.service.js](#helloworldcontrollerjs-e-helloworldservicejs)
+* [helloWorld.html e helloWorld2.html](#helloworldhtml-e-helloworld2html)
+* [helloWorld.scss](#helloworldscss)
 
 ### feature.json
 
