@@ -52,10 +52,10 @@ Ele irá levantar um servidor web no endereço http://localhost:3000 e sugerimos
 Uma feature terá a seguinte estrutura de arquivos:
 
 * [feature.json](#featurejson)
-* [helloWorld.module.js](#helloWorldmodulejs)
-* [helloWorld.controller.js e helloWorld.service.js](#helloWorldservicejsehelloWorldservicejs)
-* [helloWorld.html e helloWorld2.html](#helloWorldhtmlehelloWorld2html)
-* [helloWorld.sass](#helloWorldsass)
+* [helloWorld.module.js](#helloworldmodulejs)
+* [helloWorld.controller.js e helloWorld.service.js](#helloworldservicejsehelloworldservicejs)
+* [helloWorld.html e helloWorld2.html](#helloworldhtmlehelloworld2html)
+* [helloWorld.sass](#helloworldsass)
 
 ### feature.json
 
