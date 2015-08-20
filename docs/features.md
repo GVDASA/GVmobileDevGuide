@@ -45,18 +45,17 @@ Para testes, você deve levantar o serviço web do **gvmsdk**, dentro da pasta d
 $ gvmsdk serve
 ```
 
-Ele irá levantar um servidor web no endereço http://localhost:3000 e sugerimos usar o [Google Chrome](https://www.google.com/chrome/) com as opções de desenvolvedor (F12), pois esta opção fornece meios de emular dispositivos móveis.
+Ele irá levantar um servidor web no endereço http://localhost:3000 e sugerimos usar o [Google Chrome](https://www.google.com/chrome/) com as opções de desenvolvedor (F12), pois esta opção fornece meios de debug e emular dispositivos móveis.
 
 ## Anatomia de uma feature
 
 Uma feature terá a seguinte estrutura de arquivos:
 
-* [feature.json]()
-* [helloWorld.module.js]()
-* [helloWorld.controller.js]()
-* [helloWorld.service.js]()
-* [helloWorld.html]()
-* [helloWorld.sass]()
+* [feature.json](#featurejson)
+* [helloWorld.module.js](#helloWorldmodulejs)
+* [helloWorld.controller.js e helloWorld.service.js](#helloWorldservicejsehelloWorldservicejs)
+* [helloWorld.html e helloWorld2.html](#helloWorldhtmlehelloWorld2html)
+* [helloWorld.sass](#helloWorldsass)
 
 ### feature.json
 
@@ -96,11 +95,31 @@ JSON de configuração da feature. A relação de propriedades são:
 
 ### helloWorld.module.js
 
-Arquivo utilizado para inicializar o módulo angular responsável pela feature. Normalmente ficam neste arquivo as cargas do *run* e *config* deste módulo.
+Arquivo utilizado para inicializar o módulo angular responsável pela feature. Normalmente ficam neste arquivo as cargas do *run* e *config* da feature.
 
 ```javascript
+angular.module('feature.helloWorld', ['core'])
 
+.run(function() {
+    // implantação que deverá rodar automaticamente quando a feature inicializar
+})
+
+.config(function() {
+    // implantação de providers
+});
 ```
+
+### helloWorld.controller.js e helloWorld.service.js
+
+Arquivos *opcionais* onde ficam os controllers e serviços da feature.
+
+### helloWorld.html e helloWorld2.html
+
+São arquivos de views.
+
+### helloWorld.scss
+
+Arquivo *opcional* para criação de estilo (CSS)
 
 ## Links úteis
 
