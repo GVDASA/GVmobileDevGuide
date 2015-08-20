@@ -32,9 +32,9 @@ Para desenvolver uma feature, é necessário o download de nosso CORE SDK. Como 
 ```bash
 $ mkdir minhasFeatures
 $ cd minhasFeatures
-$ git clone $GITCORE core
-$ git clone $GITALUNO aluno.modulo
-$ git clone $GITHELLOWORLD feature.helloWorld
+$ git clone https://github.com/GVDASA/GVmobileFeature-core.git core
+$ git clone https://github.com/GVDASA/GVmobileFeature-alunoModulo.git aluno.modulo
+$ git clone https://github.com/GVDASA/GVmobileFeature-HelloWorld.git feature.helloWorld
 ```
 
 Na pasta **core** temos a API desenvolvida em nosso aplicativo, usada para levantar o ambiente básico e testar sua nova feature, a pasta **aluno.modulo** contem a implantação do core para o módulo aluno. A pasta **feature.helloWorld** é nossa feature de exemplo (por tanto opcional).
