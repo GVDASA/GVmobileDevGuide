@@ -17,9 +17,11 @@ E como conhecimento opcional:
 
 Alem destes conhecimentos, é necessário ter instalado um ambiente de desenvolvimento com os seguintes requisitos:
 
+* [Git](https://git-scm.com/)
 * [Node.JS e NPM](https://nodejs.org/)
+* Um editor de códigos de sua preferência :)
 
-Após este requisito instalado, podemos obter o ```gvmsdk``` via NPM:
+Após instalados estes requisitos, podemos obter o ```gvmsdk``` via NPM:
 
 ```bash
 $ npm install -g gvmsdk
