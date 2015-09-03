@@ -71,9 +71,6 @@ Uma feature terá a seguinte estrutura de arquivos:
 
 ```json
 {
-    "id": "GUID",
-    "cowner": "GUID",
-    "mode": 0,
     "scripts": [
         "**/*.module.js",
         "**/*.js"
@@ -91,12 +88,6 @@ Uma feature terá a seguinte estrutura de arquivos:
 
 JSON de configuração da feature. A relação de propriedades são:
 
-* *id*: Código de identificação de uma feature. Esta propriedade é gerada automaticamente quando usando o *gvmsdk* para envio, ou deve ser obtido pelo no **portal do desenvolvedor**.
-* *cowner*: Código identificando o cliente que é proprietário da feature. É um campo automático quando usando o *gvmsdk* para publicar uma feature, ou deve ser obtido no **portal do desenvolvedor**.
-* *mode*: Modo de licencimento da feature. Deve ser preenchido conforme tipo de licenciamento:
-	* 0: Privado (Uso somente pelo cliente)
-	* 1: Licenciado (Features licenciados **somente pela GVDASA**)
-	* 2: Público (Features disponíveis para todos os clientes)
 * *scripts*: Array que recebe todos os arquivos **Javascript** usados pela feature.
 * *styles*: Array que recebe todos os arquivos **CSS** e **SASS** usados pela feature.
 * *bower_deps*: Array que recebe pacotes adicionais que devem ser instalados via bower.
