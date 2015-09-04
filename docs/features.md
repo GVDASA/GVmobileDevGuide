@@ -90,7 +90,7 @@ JSON de configuração da feature. A relação de propriedades são:
 
 * *scripts*: Array que recebe todos os arquivos **Javascript** usados pela feature.
 * *styles*: Array que recebe todos os arquivos **CSS** e **SASS** usados pela feature.
-* *bower_deps*: Array que recebe pacotes adicionais que devem ser instalados via bower.
+* *bower_deps*: Array que recebe uma lista de dependências para ser instalado via bower. Para saber a lista de pacotes possiveis, acesse (este link)[feature_bower_deps.md].
 * *deps*: Array com as dependencias de features do GVmobile.
 * *alias*: Nome da feature
 
