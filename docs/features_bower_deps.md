@@ -3,7 +3,7 @@
 Durante o desenvolvimento de uma feature, podemos configurar a opção *bower_deps* para receber um array de pacotes que auxiliam o desenvolvedor em sua feature.
 
 |Pacote|Versão|
-|-|-:|
+|---|---:|
 |jquery|~2.1.3|
 |ionic|~1.0.1|
 |angular|~1.3.13|
