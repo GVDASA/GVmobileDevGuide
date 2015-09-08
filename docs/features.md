@@ -127,6 +127,6 @@ Arquivo *opcional* para criação de estilo (CSS)
 ## Links úteis
 
 * Comandos do [gvmsdk](#)
-* [Portal do desenvolvedor](#)
+* [Portal do desenvolvedor](portal_desenvolvedor.md)
 * [GVmobile Core API](#)
 * [GVmobile WebAPI](#)
