@@ -67,6 +67,8 @@ Uma feature terá a seguinte estrutura de arquivos:
 * [helloWorld.html e helloWorld2.html](#helloworldhtml-e-helloworld2html)
 * [helloWorld.scss](#helloworldscss)
 
+Para o desenvolvimento, é necessário seguir nossa [Feature Guidelines](features_guidelines.md) para manter a padronização e qualidade do aplicativo.
+
 ### feature.json
 
 ```json
