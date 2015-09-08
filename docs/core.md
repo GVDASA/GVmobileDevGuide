@@ -1,4 +1,4 @@
 # Core API
 
-* [Métodos](#)
+* [Métodos](core_metodos.md)
 * [Plugins](#)
