@@ -27,6 +27,11 @@ Após instalados estes requisitos, podemos obter o ```gvmsdk``` via NPM:
 $ npm install -g gvmsdk
 ```
 
+**Atenção**: O pacote NPM *gvmsdk* é um conjunto de pacotes para facilitar o desenvolvimento de uma feature. Com isso, alguns pacotes podem ocasionalmente apresentar alguma mensagem de "erro" em pacotes opcionais. Isso é considerado normal, e abaixo segue uma lista de erros mapeados e que devem ser desconsiderados:
+
+* Erro na compilação de pacotes ***gulp-sass***
+    * Neste erro é comentado na falta do interpretador Python ou Visual Studio 2013, estas dependências são **opcionais**.
+
 ## Desenvolvendo uma feature
 
 Para desenvolver uma feature, é necessário o download de nosso CORE SDK. Como sugestão temos os seguintes passos:
