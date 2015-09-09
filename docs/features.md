@@ -129,6 +129,10 @@ São arquivos de views.
 
 Arquivo *opcional* para criação de estilo (CSS)
 
+## Enviando sua feature para um cliente
+
+Para efetuar o envio, é necessário que seja enviado os arquivos para o portal GVmobile. Este procedimento pode ser feito [usando o portal GVmobile](portal_desenvolvedor.md#envioupload-de-features) ou com o [gvmsdk](#).
+
 ## Links úteis
 
 * Comandos do [gvmsdk](#)
