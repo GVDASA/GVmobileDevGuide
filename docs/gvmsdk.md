@@ -1,6 +1,6 @@
 # Usando o GVMSDK
 
-O GVMSDK é o nosso pacote NPM para auxiliar no desenvolvimento de novas features para o GVmobile de maneira rápida. Com este pacote instalado podemos executar comandos como enviar uma feature ao portal GVmobile [(upload)](#), publicar suas features para produção [(publish)](#), preparar suas features para testes [(test)](#), preparar a versão de produção de um cliente [(build)](#), verificar o status de um preparo de teste ou produção [(status)](#) e ainda preparar um ambiente simulado com as features locais no desenvolvedor [(serve)](#).
+O GVMSDK é o nosso pacote NPM para auxiliar no desenvolvimento de novas features para o GVmobile de maneira rápida. Com este pacote instalado podemos executar comandos como enviar uma feature ao portal GVmobile [(upload)](#upload), publicar suas features para produção [(publish)](#publish), preparar suas features para testes [(test)](#build--test), preparar a versão de produção de um cliente [(build)](#build--test), verificar o status de um preparo de teste ou produção [(status)](#status) e ainda preparar um ambiente simulado com as features locais no desenvolvedor [(serve)](#serve).
 
 **Execução básica**
 
