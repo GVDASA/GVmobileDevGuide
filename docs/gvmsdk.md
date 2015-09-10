@@ -42,7 +42,7 @@ Faz o publish de uma feature para uso em produção.
 * featureFolder
   * Pasta onde esta sua feature. Se omitir este valor, é necessário estar dentro da pasta onde se encontra sua feature.
 * --cowner=""
-  * É o código do cliente que receberá a feature. Usado na primeira vez em que publicamos uma nova feature.
+  * É o código do cliente que receberá a feature. Usado na primeira vez em que publicamos uma nova feature. Ele pode ser obtido no [portal do desenvolvedor](portal_desenvolvedor.md).
 * --mode=0
   * É o tipo de licenciamento que uma feature pode ter. Este valor não pode ser alterado no futuro. Os valores possíveis são:
     * 0 (Privada): Licenciada somente para uso do cliente.
@@ -64,7 +64,7 @@ Faz o publish de uma feature para uso em produção.
 #### Opções
 
 * packageId
-  * É o ID do aplicativo
+  * É o ID do aplicativo. Pode ser obtido no [portal do desenvolvedor](portal_desenvolvedor.md).
 
 #### Modo de uso
 
@@ -80,7 +80,7 @@ Verifica o status do build, tanto o de produção, quanto o de testes.
 #### Opções
 
 * packageId
-  * É o ID do aplicativo
+  * É o ID do aplicativo. Pode ser obtido no [portal do desenvolvedor](portal_desenvolvedor.md).
 * --test
   * Visualiza o status do ultimo build de testes
 
