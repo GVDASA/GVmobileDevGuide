@@ -99,7 +99,7 @@ Inicia um servidor para testes de features.
 
 Não há
 
-### Modo de uso
+#### Modo de uso
 
 * Iniciando o servidor com o conteúdo da pasta local
   * `gvmsdk serve`
