@@ -137,5 +137,5 @@ Para efetuar o envio, é necessário que seja enviado os arquivos para o portal 
 
 * Comandos do [gvmsdk](gvmsdk.md)
 * [Portal do desenvolvedor](portal_desenvolvedor.md)
-* [GVmobile Core API](core.md)
+* [GVmobile Core API](#)
 * [GVmobile WebAPI](#)
