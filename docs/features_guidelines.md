@@ -27,3 +27,11 @@ Afim de evitar colisão de nomes de módulos, controllers, services, etc, é nec
 
 É valido lembrar que se o desenvolvedor for dividir em mais módulos, lembrar de iniciar com o nome da feature no inicio do módulo, por exemplo: `angular.module('avaliacaoCalendarModule' []);`
 
+## Plugins e pacotes javascripts
+
+Para o desenvolvimento de novas features, dipomos de uma listagem de plugins e pacotes javascript que podem ser adicionados ao projeto.
+
+* [Plugins (Apache Cordova)](features_plugins_cordova.md)
+* [Pacotes Javascript](features_bower_deps.md)
+
+Com estes é possível extender funcionalidades e utilizar recursos de hardware dos dispositivos.
