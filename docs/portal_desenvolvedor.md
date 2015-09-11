@@ -21,7 +21,7 @@ Para efetuar o upload, clique na feature que deseja atualizar e clique no botão
 
 ## Habilitando/desabilitando uma feature para testes
 
-Quando uma feature esta marcada para testes, ela pode ser acessada com o [aplicativo em modo desenvolvedor](#) sem restrições.
+Quando uma feature esta marcada para testes, ela pode ser acessada com o [aplicativo em modo desenvolvedor](aplicativo_desenvolvedor.md) sem restrições.
 
 Para habilitar ou desabilitar o modo de testes, clique na feature e após, clique em "Habilitar teste" ou "Desabilitar teste".
 
