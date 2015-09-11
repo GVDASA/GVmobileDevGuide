@@ -35,3 +35,15 @@ Para o desenvolvimento de novas features, dipomos de uma listagem de plugins e p
 * [Pacotes Javascript](features_bower_deps.md)
 
 Com estes é possível extender funcionalidades e utilizar recursos de hardware dos dispositivos.
+
+## Processo de liberação das atualizações de features licenciadas
+
+Após o desenvolvimento de uma feature ela será publicada pela GVDASA e ao fazer isto, todos os aplicaticos que utilizem esta feature serão automaticamente atualizados.
+
+Visto isso, é necessário seguir alguns alinhamentos para que possamos evitar ao máximo que aplicativos parem de funcionar inesperadamente. 
+
+Sendo estes:
+- Cada atualização de feature licenciada será devidamente comunicada por email aos desenvolvedores cadastrados no portal;
+- Será garantida a retrocompatibilidade apenas com a versão imediatamente anterior a atual para os métodos que sejam públicos.
+- Qualquer alteração em método que seja público terá a retrocompatibilidade garantida por um prazo de 15 dias contados a partir da data do envio do email de comunicação, apos transcorrido este prazo não haverá nenhuma garantia da compatibilidade com versoes anteriores.
+
