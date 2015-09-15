@@ -29,7 +29,7 @@ Afim de evitar colisão de nomes de módulos, controllers, services, etc, é nec
 
 ## Plugins e pacotes javascripts
 
-Para o desenvolvimento de novas features, dipomos de uma listagem de plugins e pacotes javascript que podem ser adicionados ao projeto.
+Para o desenvolvimento de novas features, dispomos de uma listagem de plugins e pacotes javascript que podem ser adicionados ao projeto.
 
 * [Plugins (Apache Cordova)](features_plugins_cordova.md)
 * [Pacotes Javascript](features_bower_deps.md)
