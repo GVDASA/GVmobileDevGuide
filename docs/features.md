@@ -133,6 +133,10 @@ Arquivo *opcional* para criação de estilo (CSS)
 
 Para efetuar o envio, é necessário que seja enviado os arquivos para o portal GVmobile. Este procedimento pode ser feito [usando o portal GVmobile](portal_desenvolvedor.md#envioupload-de-features) ou com o [gvmsdk](#).
 
+## Testando sua feature enviada
+
+Para testar sua feature enviada em modo de teste para um cliente, conheça o [aplicativo em modo desenvolvedor](https://github.com/GVDASA/GVmobileDevGuide/blob/master/docs/aplicativo_desenvolvedor.md).
+
 ## Links úteis
 
 * Comandos do [gvmsdk](gvmsdk.md)
