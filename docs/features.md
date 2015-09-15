@@ -4,7 +4,7 @@ A plataforma para desenvolvimento de novas features é uma forma de criar ou ext
 
 ## Requisitos para o desenvolvimento
 
-Para o desenvolvimento é necessário ser convidado por uma instituição cliente da GVDASA usuário do GVmobile, para ter o acesso ao [Portal de Desenvolvimento GVmobile](https://painel.gvmobile.net.br/)
+Para o desenvolvimento é necessário ser convidado por uma instituição cliente da GVDASA usuário do GVmobile, para ter o acesso ao [Portal de Desenvolvimento GVmobile](portal_desenvolvedor.md)
 
 Para desenvolver novas features, é necessário um conhecimento prévio de **JavaScript**, **CSS** e **HTML5**. Alem destes, é necessário conhecimentos em:
 
@@ -137,5 +137,5 @@ Para efetuar o envio, é necessário que seja enviado os arquivos para o portal 
 
 * Comandos do [gvmsdk](gvmsdk.md)
 * [Portal do desenvolvedor](portal_desenvolvedor.md)
-* [GVmobile Core API](#)
-* [GVmobile WebAPI](#)
+* [GVmobile Core API](http://gvdasa.github.io/GVmobileFeature-core/)
+
