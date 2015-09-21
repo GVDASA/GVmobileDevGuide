@@ -143,4 +143,5 @@ Para testar sua feature enviada em modo de teste para um cliente, conheça o [ap
 * [Portal do desenvolvedor](portal_desenvolvedor.md)
 * [GVmobile Core API](http://gvdasa.github.io/GVmobileFeature-core/)
 * [Web API do cliente](webapi_cliente.md)
+* [OData Version 3.0 - URL Conventions](http://www.odata.org/documentation/odata-version-3-0/url-conventions/)
 

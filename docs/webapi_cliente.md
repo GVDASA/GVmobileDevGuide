@@ -43,6 +43,10 @@ Consulta sem filtro ou operação alguma.
 
 `~/api/views/pessoa?$orderby=nome`
 
+Consulta com filtro sobre o campo CodigoPessoa, onde CodigoPessoa deve igual a 42.
+
+`~/api/views/pessoa?$orderby=CodigoPessoa&$filter=CodigoPessoa eq 42`
+
 Consulta com filtro sobre o campo CodigoPessoa, onde CodigoPessoa deve ser maior que 1 e CodigoPessoa deve ser menor que 50.
 
 `~/api/views/pessoa?$filter=CodigoPessoa gt 1 and CodigoPessoa lt 50&$orderby=CodigoPessoa&$skip=10&$top=10`
