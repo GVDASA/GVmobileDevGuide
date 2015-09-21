@@ -142,4 +142,5 @@ Para testar sua feature enviada em modo de teste para um cliente, conheça o [ap
 * Comandos do [gvmsdk](gvmsdk.md)
 * [Portal do desenvolvedor](portal_desenvolvedor.md)
 * [GVmobile Core API](http://gvdasa.github.io/GVmobileFeature-core/)
+* [Web API do cliente](webapi_cliente.md)
 
