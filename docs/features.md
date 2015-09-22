@@ -48,8 +48,16 @@ Na pasta **core** temos a API desenvolvida em nosso aplicativo, usada para levan
 
 Para testes, você deve levantar o serviço web do **gvmsdk**, dentro da pasta de desenvolvimento (em nosso exemplo a pasta **minhasFeatures**):
 
+* Levantando um ambiente para API do desenvolvedor (Não requer que o desenvolvedor tenha vínculo com um cliente)
+
 ```
 $ gvmsdk serve
+```
+
+
+* Levantando um ambiente para API do cliente (Requer vínculo do desenvolvedor com um cliente)
+```
+$ gvmsdk serve ['PackageId_do_cliente'](packageid.md)
 ```
 
 Ele irá levantar um servidor web no endereço http://localhost:3000 acessando nossa API de testes. Sugerimos usar o [Google Chrome](https://www.google.com/chrome/) com as opções de desenvolvedor (F12), pois esta opção fornece meios de debug e emular dispositivos móveis.
