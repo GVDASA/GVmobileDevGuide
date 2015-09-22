@@ -129,6 +129,12 @@ São arquivos de views.
 
 Arquivo *opcional* para criação de estilo (CSS)
 
+## Como criar e consumir uma VIEW para consulta de dados através da Web API do cliente.
+
+Para consumir uma VIEW é necessário criá-la na base de dados do cliente seguindo os passos da seguinte documentação
+[Web API do cliente](webapi_cliente.md)
+
+
 ## Enviando sua feature para um cliente
 
 Para efetuar o envio, é necessário que seja enviado os arquivos para o portal GVmobile. Este procedimento pode ser feito [usando o portal GVmobile](portal_desenvolvedor.md#envioupload-de-features) ou com o [gvmsdk](#).
