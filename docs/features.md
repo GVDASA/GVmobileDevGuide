@@ -68,6 +68,8 @@ $ gvmsdk login
 ```
 $ gvmsdk serve PackageId
 
+```
+
 Ele irá levantar um servidor web no endereço http://localhost:3000 acessando nossa API de testes. Sugerimos usar o [Google Chrome](https://www.google.com/chrome/) com as opções de desenvolvedor (F12), pois esta opção fornece meios de debug e emular dispositivos móveis.
 
 Para acessar, use um dos usuários e senhas abaixo:
