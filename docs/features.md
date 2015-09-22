@@ -66,8 +66,7 @@ $ gvmsdk login
 *Obtenha o [packageId do cliente](packageid.md)*
 
 ```
-$ gvmsdk serve PackageId_do_cliente
-```
+$ gvmsdk serve PackageId
 
 Ele irá levantar um servidor web no endereço http://localhost:3000 acessando nossa API de testes. Sugerimos usar o [Google Chrome](https://www.google.com/chrome/) com as opções de desenvolvedor (F12), pois esta opção fornece meios de debug e emular dispositivos móveis.
 
