@@ -57,7 +57,8 @@ $ gvmsdk serve
 
 * Levantando um ambiente para API do cliente (Requer vínculo do desenvolvedor com um cliente)
 ```
-$ gvmsdk serve ['PackageId_do_cliente'](packageid.md)
+$ gvmsdk login *(Informe suas credenciais de desenvolvedor)*
+$ gvmsdk serve [PackageId_do_cliente](packageid.md)
 ```
 
 Ele irá levantar um servidor web no endereço http://localhost:3000 acessando nossa API de testes. Sugerimos usar o [Google Chrome](https://www.google.com/chrome/) com as opções de desenvolvedor (F12), pois esta opção fornece meios de debug e emular dispositivos móveis.
