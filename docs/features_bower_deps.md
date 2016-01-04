@@ -8,7 +8,7 @@ Durante o desenvolvimento de uma feature, podemos configurar a opção *bower_de
 |ionic|~1.0.1|
 |angular|~1.3.13|
 |angular-resource|1.3.13|
-|ng-bearer-auth|~0.1.1|
+|ng-bearer-auth|~0.2.2|
 |mobiscroll|~2.15.0|
 |gv-angular-filter|~0.5.6|
 |angular-i18n|~1.3.15|
