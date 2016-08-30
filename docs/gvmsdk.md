@@ -69,9 +69,9 @@ Faz o publish de uma feature para uso em produção.
 #### Modo de uso
 
 * Gerando um build de produção
-  * `gvmdsk build br.com.gvdasa.gvmobile.meucliente`
+  * `gvmsdk build br.com.gvdasa.gvmobile.meucliente`
 * Gerando um teste
-  * `gvmdsk test br.com.gvdasa.gvmobile.meucliente`
+  * `gvmsdk test br.com.gvdasa.gvmobile.meucliente`
 
 ### status
 
@@ -87,9 +87,9 @@ Verifica o status do build, tanto o de produção, quanto o de testes.
 #### Modo de uso
 
 * Obtendo o status do seu ultimo build de produção
-  * `gvmdsk status`
+  * `gvmsdk status`
 * Obtendo o status do seu ultimo build de teste
-  * `gvmdsk status --test`
+  * `gvmsdk status --test`
 
 ### serve
 
