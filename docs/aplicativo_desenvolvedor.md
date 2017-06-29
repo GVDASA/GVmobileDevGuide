@@ -11,4 +11,4 @@ Todos os aplicativos de clientes contidos na loja podem se tornar aplicativos pa
 
 Pronto! Agora feche completamente o aplicativo a abra novamente para receber o build de testes da tua conta.
 
-Para desfazer, repita os passos de 1 a 4 e confirme a desconeção. Feche completamente o aplicativo e abra novamente para receber a versão de produção do aplicativo.
+Para desfazer, repita os passos de 1 a 4 e confirme a desconexão. Feche completamente o aplicativo e abra novamente para receber a versão de produção do aplicativo.
